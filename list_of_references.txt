@@ -1,7 +1,1 @@
-https://www.youtube.com/watch?v=Sv_NAxi_jNs&list=PLZlA0Gpn_vH-cEDOofOujFIknfZZpIk3a&index=8&ab_channel=WebDevSimplified
-https://developer.mozilla.org/en-US/docs
-<<<<<<< HEAD
-https://www.w3schools.com/cssref/sel_hover.php
-=======
-https://www.w3schools.com/cssref/sel_hover.php
->>>>>>> 4fc601258b886a86fab9a113de6fc92c0842d565
+
