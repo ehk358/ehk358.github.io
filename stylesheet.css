@@ -1,0 +1,16 @@
+*{text-align:center}
+
+#page{background-color:turquoise}
+
+h1{color:seagreen}
+
+.about_section{color:royalblue; padding-bottom:5px;}
+
+.hobbies_section{color:purple; padding-top: 1px; padding-bottom:0px}
+
+a:hover{color:white}
+
+div{padding:7px; margin:3px;}
+
+img{width:500px}
+
